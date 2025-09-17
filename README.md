@@ -1,3 +1,3 @@
-### Web dev full stack 
+### Frontend developer 
 
-## Expo, React, Next.js, Nestjs
+## Expo, React, TypeScript
